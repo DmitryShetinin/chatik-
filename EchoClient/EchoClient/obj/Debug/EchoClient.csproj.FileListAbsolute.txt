@@ -1,0 +1,37 @@
+D:\Projects\EchoClient\EchoClient\bin\Debug\EchoClient.exe.config
+D:\Projects\EchoClient\EchoClient\bin\Debug\EchoClient.exe
+D:\Projects\EchoClient\EchoClient\bin\Debug\EchoClient.pdb
+D:\Projects\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.AssemblyReference.cache
+D:\Projects\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.CoreCompileInputs.cache
+D:\Projects\EchoClient\EchoClient\obj\Debug\EchoClient.exe
+D:\Projects\EchoClient\EchoClient\obj\Debug\EchoClient.pdb
+E:\ВЕСНА 2022\EchoClient\EchoClient\bin\Debug\EchoClient.exe.config
+E:\ВЕСНА 2022\EchoClient\EchoClient\bin\Debug\EchoClient.exe
+E:\ВЕСНА 2022\EchoClient\EchoClient\bin\Debug\EchoClient.pdb
+E:\ВЕСНА 2022\EchoClient\EchoClient\obj\Debug\EchoClient.csprojAssemblyReference.cache
+E:\ВЕСНА 2022\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.CoreCompileInputs.cache
+E:\ВЕСНА 2022\EchoClient\EchoClient\obj\Debug\EchoClient.exe
+E:\ВЕСНА 2022\EchoClient\EchoClient\obj\Debug\EchoClient.pdb
+F:\ВЕСНА 2022\EchoClient\EchoClient\bin\Debug\EchoClient.exe.config
+F:\ВЕСНА 2022\EchoClient\EchoClient\bin\Debug\EchoClient.exe
+F:\ВЕСНА 2022\EchoClient\EchoClient\bin\Debug\EchoClient.pdb
+F:\ВЕСНА 2022\EchoClient\EchoClient\obj\Debug\EchoClient.csprojAssemblyReference.cache
+F:\ВЕСНА 2022\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.CoreCompileInputs.cache
+F:\ВЕСНА 2022\EchoClient\EchoClient\obj\Debug\EchoClient.exe
+F:\ВЕСНА 2022\EchoClient\EchoClient\obj\Debug\EchoClient.pdb
+C:\Users\Shche\source\repos\EchoClient\EchoClient\bin\Debug\EchoClient.exe.config
+C:\Users\Shche\source\repos\EchoClient\EchoClient\bin\Debug\EchoClient.exe
+C:\Users\Shche\source\repos\EchoClient\EchoClient\bin\Debug\EchoClient.pdb
+C:\Users\Shche\source\repos\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.AssemblyReference.cache
+C:\Users\Shche\source\repos\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shche\source\repos\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.CoreCompileInputs.cache
+C:\Users\Shche\source\repos\EchoClient\EchoClient\obj\Debug\EchoClient.exe
+C:\Users\Shche\source\repos\EchoClient\EchoClient\obj\Debug\EchoClient.pdb
+C:\Users\Shche\source\repos\Kyrsach\EchoClient\EchoClient\bin\Debug\EchoClient.exe.config
+C:\Users\Shche\source\repos\Kyrsach\EchoClient\EchoClient\bin\Debug\EchoClient.exe
+C:\Users\Shche\source\repos\Kyrsach\EchoClient\EchoClient\bin\Debug\EchoClient.pdb
+C:\Users\Shche\source\repos\Kyrsach\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.AssemblyReference.cache
+C:\Users\Shche\source\repos\Kyrsach\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shche\source\repos\Kyrsach\EchoClient\EchoClient\obj\Debug\EchoClient.csproj.CoreCompileInputs.cache
+C:\Users\Shche\source\repos\Kyrsach\EchoClient\EchoClient\obj\Debug\EchoClient.exe
+C:\Users\Shche\source\repos\Kyrsach\EchoClient\EchoClient\obj\Debug\EchoClient.pdb

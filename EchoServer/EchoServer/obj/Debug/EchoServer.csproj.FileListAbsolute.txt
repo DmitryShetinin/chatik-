@@ -1,0 +1,37 @@
+D:\Projects\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+D:\Projects\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+D:\Projects\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+D:\Projects\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.AssemblyReference.cache
+D:\Projects\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+D:\Projects\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+D:\Projects\EchoServer\EchoServer\obj\Debug\EchoServer.pdb
+E:\ВЕСНА 2022\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+E:\ВЕСНА 2022\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+E:\ВЕСНА 2022\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+E:\ВЕСНА 2022\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+E:\ВЕСНА 2022\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+E:\ВЕСНА 2022\EchoServer\EchoServer\obj\Debug\EchoServer.pdb
+E:\ВЕСНА 2022\EchoServer\EchoServer\obj\Debug\EchoServer.csprojAssemblyReference.cache
+F:\ВЕСНА 2022\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+F:\ВЕСНА 2022\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+F:\ВЕСНА 2022\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+F:\ВЕСНА 2022\EchoServer\EchoServer\obj\Debug\EchoServer.csprojAssemblyReference.cache
+F:\ВЕСНА 2022\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+F:\ВЕСНА 2022\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+F:\ВЕСНА 2022\EchoServer\EchoServer\obj\Debug\EchoServer.pdb
+C:\Users\Shche\source\repos\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+C:\Users\Shche\source\repos\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\Shche\source\repos\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+C:\Users\Shche\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.AssemblyReference.cache
+C:\Users\Shche\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shche\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\Shche\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\Shche\source\repos\EchoServer\EchoServer\obj\Debug\EchoServer.pdb
+C:\Users\Shche\source\repos\Kyrsach\EchoServer\EchoServer\bin\Debug\EchoServer.exe.config
+C:\Users\Shche\source\repos\Kyrsach\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\Shche\source\repos\Kyrsach\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+C:\Users\Shche\source\repos\Kyrsach\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.AssemblyReference.cache
+C:\Users\Shche\source\repos\Kyrsach\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shche\source\repos\Kyrsach\EchoServer\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\Shche\source\repos\Kyrsach\EchoServer\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\Shche\source\repos\Kyrsach\EchoServer\EchoServer\obj\Debug\EchoServer.pdb

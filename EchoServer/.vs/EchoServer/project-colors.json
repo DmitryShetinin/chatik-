@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23799dd0-cfa0-43a4-bdb9-bc51ba3b6949": {
+      "ProjectGuid": "23799dd0-cfa0-43a4-bdb9-bc51ba3b6949",
+      "DisplayName": "EchoServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
